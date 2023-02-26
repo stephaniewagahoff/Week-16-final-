@@ -1,0 +1,16 @@
+#productsmenu {
+    background-image: url("./resources/mainnavbarbg.jpg");
+  }
+
+  .nav-link {
+    color: white;
+  }
+
+  .nav-link:hover {
+    color: gray;
+  }
+
+  .nav-link.active {
+    background-image: url("./resources/mainbg.jpg");
+    color: black;
+  }
